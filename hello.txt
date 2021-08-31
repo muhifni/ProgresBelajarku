@@ -1,1 +1,3 @@
-Belajar branches
+- Belajar branches
+- Belajar menggabungkan branches
+
