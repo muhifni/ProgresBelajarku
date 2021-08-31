@@ -12,3 +12,6 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
  * Belajar GIT Branches
  * Kolaborasi dengan Tim
  * Menggabungkan 2 branches
+ * GIT Merge
+
+
