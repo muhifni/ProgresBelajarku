@@ -11,3 +11,4 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
 **1 September 2021**
  * Belajar GIT Branches
  * Kolaborasi dengan Tim
+ * Menggabungkan 2 branches
