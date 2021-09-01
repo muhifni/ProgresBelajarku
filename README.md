@@ -18,3 +18,7 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
  * Latihan Melakukan Squash Changes
  * Membuat 3 commit
  * Push rank belajar
+
+**3 September 2021**
+ * Belajar code review
+ * Belajar compare and pull request
