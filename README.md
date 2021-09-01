@@ -18,5 +18,3 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
  * Latihan Melakukan Squash Changes
  * Membuat 3 commit
  * Push rank belajar
-
-
