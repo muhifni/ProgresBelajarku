@@ -22,3 +22,4 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
 **3 September 2021**
  * Belajar code review
  * Belajar compare and pull request
+ * belajar memberikan komentar
