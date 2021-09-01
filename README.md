@@ -14,4 +14,7 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
  * Menggabungkan 2 branches
  * GIT Merge
 
+**2 September 2021**
+ * Latihan Melakukan Squash Changes
+
 
