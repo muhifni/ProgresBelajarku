@@ -16,5 +16,6 @@ Repository Ini Berisi Penglaman Belajarku di Dicoding
 
 **2 September 2021**
  * Latihan Melakukan Squash Changes
+ * Membuat 3 commit
 
 
